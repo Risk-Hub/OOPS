@@ -1,0 +1,7 @@
+Using class and object:
+
+wap to display numbers from 10 to 1 using for loop.
+wap to calculate the factorial of a given no.
+wap to display only even numbers between 1 to 150.
+wap to calculate the sum of numbers between 1 to N numbers.The user should enter the value of N.
+wap to overload area function to calculate area of a triangle, area of rectangle, area of circle, area of cylinder.
