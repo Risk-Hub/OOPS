@@ -1,0 +1,11 @@
+1. WAP to calculate area of a triangle using default and actual values where the formula is 0.5*l*b
+
+2. WAP to define a function as inline to calculate area of a cube.
+
+3. WAP to create a class student with data member (year of adm and year of pass out). Then calculate the average mark of student for N number of subject through function with argument, initialize and display the corresponding values of data members.
+
+4. WAP to define a class to represent a bank account, include the following members(name of depositor, account number, type of account, balance amount in the account). Members functions are 
+(i) To assign initial values
+(ii) To deposit an amount
+(iii) To withdraw an amount after checking the balance.
+(iv) To display name and balance
