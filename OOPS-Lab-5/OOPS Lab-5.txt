@@ -1,0 +1,12 @@
+2. WAP to find volume of a sphere, a cylinder and a cuboid, using function overloading.
+3. WAP which displays a given character, n number of times, using a function. When the n value is not provided, it should print the given character 80 times. When both the character and n value is not provided, it should print *' character 80 times.
+	[Write the above program in two ways:-
+		-using function overloading.
+		-using default arguments.]
+4. WAP to find square and cube of a number using inline function.
+5. WAP to swap two integers using pass by reference.
+6. WAP to increment the value of an argument given to function.
+Extra. WAP to create a class LIFE with data member : manufacturing year , expire year , year to calculate life of the product.take an input function to initialise the data members manufacturing year and expire year using a functon calculate life of the product through 
+	1) pass by value 
+	2) pass by address 
+	3) pass by refrence
