@@ -1,0 +1,6 @@
+1. WAP to swap private data member of two classes.[The classes have no relation with each other]
+2. Create two classes which stores distance in feet, inches and meter, centimeter format respectively. Write a function which compares distance in object of these classes and displays the larger one.
+3. Create a class with an integer data member. Include fumctions for input and output in class. Count the number of times each function is called and display it.
+4. Create a class which stores name, roll number and total marks for a student. Input data for n students. Find the average marks scored by n students, store it as a data member of the class and display it using a function which may be called without object.
+5. Create a class which stores name, author and price of a book. Store mformation for n number of books. Display information of all the books in a given price range using friend function.
+6. Write a Program to declare three classes S1,S2 and S3.The classes have private data member variable of character data type. Read strings for the classes S1 and S2. Concatenate the strings read and assign it to the data member of class S3.Use New and delete operator.
